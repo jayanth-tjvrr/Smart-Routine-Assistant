@@ -28,8 +28,8 @@ A personalized, AI-powered daily routine and meal planner that adapts to your li
 
 ### 1. **Clone the Repository**
 ```bash
-git clone <your-repo-url>
-cd hackathon
+git clone https://github.com/jayanth-tjvrr/Smart-Routine-Assistant.git
+cd Smart-Routine-Assistant
 ```
 
 ### 2. **Set Up a Virtual Environment**
@@ -40,7 +40,7 @@ source venv/bin/activate
 
 ### 3. **Install Dependencies**
 ```bash
-pip install -r requirements.txt --break-system-packages
+pip3 install -r requirements.txt --break-system-packages
 ```
 
 ### 4. **Run the App**
